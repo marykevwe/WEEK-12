@@ -1,11 +1,8 @@
-# Ignore build artifacts
+
 /build/
 
-# Ignore log files
 *.log
 
-# Ignore sensitive configuration files
 /config.ini
 
-# Ignore node_modules directory
 /node_modules/
